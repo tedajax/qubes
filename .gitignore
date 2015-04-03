@@ -1,0 +1,6 @@
+*.js
+*.js.map
+*.user
+*.suo
+Qubes/bin/
+Qubes/obj/
